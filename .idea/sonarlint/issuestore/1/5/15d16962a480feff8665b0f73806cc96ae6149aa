@@ -1,0 +1,7 @@
+
+c	php:S1192@"IDefine a constant instead of duplicating this literal "response" 3 times.(ĞÅÌÔøÿÿÿÿ
+a	php:S11929"GDefine a constant instead of duplicating this literal "ticket" 4 times.(”èê×şÿÿÿÿ
+{	php:S1192B"fDefine a constant instead of duplicating this literal "Something has broken in the server..." 3 times.(ÛÃÌã
+8php:S125)"Remove this commented out code.(ÒÌâ–øÿÿÿÿ
+`	php:S1192#"FDefine a constant instead of duplicating this literal "error" 4 times.(Ì±°ııÿÿÿÿ
++	php:S2010"Replace "OR" with "||".(¥ÑÕz

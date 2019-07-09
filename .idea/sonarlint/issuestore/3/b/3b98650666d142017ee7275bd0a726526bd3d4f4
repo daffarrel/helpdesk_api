@@ -1,0 +1,29 @@
+
+a	php:S1192*"GDefine a constant instead of duplicating this literal "ticket" 6 times.(”èê×şÿÿÿÿ
+G	php:S1481Æ",Remove this unused "$trello" local variable.(æñÄ±ûÿÿÿÿ
+`	php:S1192%"FDefine a constant instead of duplicating this literal "error" 4 times.(Ì±°ııÿÿÿÿ
+r	php:S1192g"]Define a constant instead of duplicating this literal "From: IT Helpdesk PT KKT\r\n" 3 times.(Ï¬•°
+c	php:S1192“"MDefine a constant instead of duplicating this literal "str_diagnose" 4 times.(µ¤˜´
+8php:S125e"Remove this commented out code.(®òŠÍıÿÿÿÿ
+d	php:S1192v"ODefine a constant instead of duplicating this literal "</body></html>" 3 times.(¢Ò­¬
+9php:S125‚"Remove this commented out code.(­ÅÔŠşÿÿÿÿ
+9php:S125Â"Remove this commented out code.(­ÅÔŠşÿÿÿÿ
+G	php:S1481†",Remove this unused "$trello" local variable.(æñÄ±ûÿÿÿÿ
+b	php:S1192m"MDefine a constant instead of duplicating this literal "<html><body>" 3 times.(˜öˆ¦
+p	php:S1192j"VDefine a constant instead of duplicating this literal "MIME-Version: 1.0\r\n" 3 times.(ğøìÈøÿÿÿÿ
+8php:S125["Remove this commented out code.(­ÅÔŠşÿÿÿÿ
+4php:S125 "Remove this commented out code.(ú‰ï·
+…	php:S1192k"pDefine a constant instead of duplicating this literal "Content-Type: text/html; charset=ISO-8859-1\r\n" 3 times.(›õï
+b	php:S1192]"HDefine a constant instead of duplicating this literal "id_user" 3 times.(ßÕÎ„ÿÿÿÿÿ
+b	php:S1192…"GDefine a constant instead of duplicating this literal "id_pic" 4 times.(‘û£Èÿÿÿÿÿ
+Gphp:S836‘"2Review the data-flow - use of uninitialized value.(‡ªĞ£
+G	php:S1481¡",Remove this unused "$result" local variable.(Ø¾éÕúÿÿÿÿ
++	php:S2010"Replace "OR" with "||".(¥ÑÕz
+e	php:S1192h"KDefine a constant instead of duplicating this literal "Reply-To: " 3 times.(‘î…İüÿÿÿÿ
+Gphp:S836Ñ"2Review the data-flow - use of uninitialized value.(‡ªĞ£
+c	php:S1192q"IDefine a constant instead of duplicating this literal "problems" 4 times.(›îªçşÿÿÿÿ
+Z	php:S1192_"FDefine a constant instead of duplicating this literal "email" 8 times.(¶˜¹^
+9php:S125€"Remove this commented out code.(…ôÒªüÿÿÿÿ
+9php:S125”"Remove this commented out code.(×ŸÌíıÿÿÿÿ
+i	php:S1192Z"UDefine a constant instead of duplicating this literal "testkktphp@gmail.com" 5 times.(…Ö³W
+4php:S125ª"Remove this commented out code.(Ş®°¦
