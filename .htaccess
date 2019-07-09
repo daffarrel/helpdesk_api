@@ -1,0 +1,16 @@
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteRule ^(.*)$ index.php?/$1 [L]
+  RewriteCond %{REQUEST_URI} \.(jpe?g|bmp|png|gif|css|js|mp3|ogg)$ [NC]
+  RewriteCond %{QUERY_STRING} !^(.+?&v33|)v=33[^&]*(?:&(.*)|)$ [NC]
+  RewriteRule ^ %{REQUEST_URI}?v=33 [R=301,L]
+</IfModule>
+
+<IfModule !mod_rewrite.c>
+  # If we don't have mod_rewrite installed, all 404's
+  # can be sent to index.php, and everything works as normal.
+
+  ErrorDocument 404 /index.php
+</IfModule>
